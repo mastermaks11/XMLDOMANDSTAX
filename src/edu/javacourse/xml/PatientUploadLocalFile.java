@@ -19,9 +19,7 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.text.ParseException;
 
-/**
- * Created by user on 23.06.2018.
- */
+
 public class PatientUploadLocalFile {
     private Hospital hospital;
     String nameFile = "PatientCatalog.xml";
